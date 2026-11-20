@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 0,
+    "name": "Virat Kohli",
+    "role": "Batter",
+    "nation": "Australia",
+    "rating": 69,
+    "base": 1.0
+  },
+  {
+    "id": 1,
+    "name": "Rohit Sharma",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 86,
+    "base": 3.0
+  },
+  {
+    "id": 2,
+    "name": "Jasprit Bumrah",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 73,
+    "base": 1.5
+  },
+  {
+    "id": 3,
+    "name": "MS Dhoni",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 90,
+    "base": 3.5
+  },
+  {
+    "id": 4,
+    "name": "Hardik Pandya",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 77,
+    "base": 2.0
+  },
+  {
+    "id": 5,
+    "name": "Suryakumar Yadav",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 94,
+    "base": 3.5
+  },
+  {
+    "id": 6,
+    "name": "Ravindra Jadeja",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 81,
+    "base": 2.5
+  },
+  {
+    "id": 7,
+    "name": "Shubman Gill",
+    "role": "All-rounder",
+    "nation": "Bangladesh",
+    "rating": 68,
+    "base": 1.0
+  },
+  {
+    "id": 8,
+    "name": "Rashid Khan",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 85,
+    "base": 2.5
+  },
+  {
+    "id": 9,
+    "name": "Jos Buttler",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 72,
+    "base": 1.5
+  },
+  {
+    "id": 10,
+    "name": "Pat Cummins",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 89,
+    "base": 3.0
+  },
+  {
+    "id": 11,
+    "name": "Trent Boult",
+    "role": "Wicketkeeper",
+    "nation": "New Zealand",
+    "rating": 76,
+    "base": 1.5
+  },
+  {
+    "id": 12,
+    "name": "Yashasvi Jaiswal",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 93,
+    "base": 3.5
+  },
+  {
+    "id": 13,
+    "name": "Rishabh Pant",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 80,
+    "base": 2.0
+  },
+  {
+    "id": 14,
+    "name": "KL Rahul",
+    "role": "Batter",
+    "nation": "Sri Lanka",
+    "rating": 97,
+    "base": 4.0
+  },
+  {
+    "id": 15,
+    "name": "Sanju Samson",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 84,
+    "base": 2.5
+  },
+  {
+    "id": 16,
+    "name": "Shreyas Iyer",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 71,
+    "base": 1.0
+  },
+  {
+    "id": 17,
+    "name": "Ruturaj Gaikwad",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 88,
+    "base": 3.0
+  },
+  {
+    "id": 18,
+    "name": "Rinku Singh",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 75,
+    "base": 1.5
+  },
+  {
+    "id": 19,
+    "name": "Andre Russell",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 92,
+    "base": 3.5
+  },
+  {
+    "id": 20,
+    "name": "Sunil Narine",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 79,
+    "base": 2.0
+  },
+  {
+    "id": 21,
+    "name": "Varun Chakravarthy",
+    "role": "Bowler",
+    "nation": "Afghanistan",
+    "rating": 96,
+    "base": 4.0
+  },
+  {
+    "id": 22,
+    "name": "Phil Salt",
+    "role": "Batter",
+    "nation": "Sri Lanka",
+    "rating": 83,
+    "base": 2.5
+  },
+  {
+    "id": 23,
+    "name": "Mitchell Starc",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 70,
+    "base": 1.0
+  },
+  {
+    "id": 24,
+    "name": "Glenn Maxwell",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 87,
+    "base": 3.0
+  },
+  {
+    "id": 25,
+    "name": "Faf du Plessis",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 74,
+    "base": 1.5
+  },
+  {
+    "id": 26,
+    "name": "Mohammed Siraj",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 91,
+    "base": 3.5
+  },
+  {
+    "id": 27,
+    "name": "Arshdeep Singh",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 78,
+    "base": 2.0
+  },
+  {
+    "id": 28,
+    "name": "Kuldeep Yadav",
+    "role": "Batter",
+    "nation": "West Indies",
+    "rating": 95,
+    "base": 4.0
+  },
+  {
+    "id": 29,
+    "name": "Yuzvendra Chahal",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 82,
+    "base": 2.5
+  },
+  {
+    "id": 30,
+    "name": "Axar Patel",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 69,
+    "base": 1.0
+  },
+  {
+    "id": 31,
+    "name": "Washington Sundar",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 86,
+    "base": 3.0
+  },
+  {
+    "id": 32,
+    "name": "Ravi Bishnoi",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 73,
+    "base": 1.5
+  },
+  {
+    "id": 33,
+    "name": "Bhuvneshwar Kumar",
+    "role": "Bowler",
+    "nation": "England",
+    "rating": 90,
+    "base": 3.5
+  },
+  {
+    "id": 34,
+    "name": "T Natarajan",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 77,
+    "base": 2.0
+  },
+  {
+    "id": 35,
+    "name": "Harshal Patel",
+    "role": "Wicketkeeper",
+    "nation": "New Zealand",
+    "rating": 94,
+    "base": 3.5
+  },
+  {
+    "id": 36,
+    "name": "Avesh Khan",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 81,
+    "base": 2.5
+  },
+  {
+    "id": 37,
+    "name": "Deepak Chahar",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 68,
+    "base": 1.0
+  },
+  {
+    "id": 38,
+    "name": "Shardul Thakur",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 85,
+    "base": 2.5
+  },
+  {
+    "id": 39,
+    "name": "Mukesh Kumar",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 72,
+    "base": 1.5
+  },
+  {
+    "id": 40,
+    "name": "Tilak Varma",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 89,
+    "base": 3.0
+  },
+  {
+    "id": 41,
+    "name": "Ishan Kishan",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 76,
+    "base": 1.5
+  },
+  {
+    "id": 42,
+    "name": "Jitesh Sharma",
+    "role": "All-rounder",
+    "nation": "South Africa",
+    "rating": 93,
+    "base": 3.5
+  },
+  {
+    "id": 43,
+    "name": "Dhruv Jurel",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 80,
+    "base": 2.0
+  },
+  {
+    "id": 44,
+    "name": "Devdutt Padikkal",
+    "role": "Batter",
+    "nation": "West Indies",
+    "rating": 97,
+    "base": 4.0
+  },
+  {
+    "id": 45,
+    "name": "Prithvi Shaw",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 84,
+    "base": 2.5
+  },
+  {
+    "id": 46,
+    "name": "Abhishek Sharma",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 71,
+    "base": 1.0
+  },
+  {
+    "id": 47,
+    "name": "Nitish Kumar Reddy",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 88,
+    "base": 3.0
+  },
+  {
+    "id": 48,
+    "name": "Riyan Parag",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 75,
+    "base": 1.5
+  },
+  {
+    "id": 49,
+    "name": "Rahul Tripathi",
+    "role": "Bowler",
+    "nation": "England",
+    "rating": 92,
+    "base": 3.5
+  },
+  {
+    "id": 50,
+    "name": "Shivam Dube",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 79,
+    "base": 2.0
+  },
+  {
+    "id": 51,
+    "name": "Venkatesh Iyer",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 96,
+    "base": 4.0
+  },
+  {
+    "id": 52,
+    "name": "Nitish Rana",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 83,
+    "base": 2.5
+  },
+  {
+    "id": 53,
+    "name": "Manish Pandey",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 70,
+    "base": 1.0
+  },
+  {
+    "id": 54,
+    "name": "Mayank Agarwal",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 87,
+    "base": 3.0
+  },
+  {
+    "id": 55,
+    "name": "Ajinkya Rahane",
+    "role": "All-rounder",
+    "nation": "Bangladesh",
+    "rating": 74,
+    "base": 1.5
+  },
+  {
+    "id": 56,
+    "name": "Cheteshwar Pujara",
+    "role": "Batter",
+    "nation": "Australia",
+    "rating": 91,
+    "base": 3.5
+  },
+  {
+    "id": 57,
+    "name": "Ambati Rayudu",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 78,
+    "base": 2.0
+  },
+  {
+    "id": 58,
+    "name": "Dinesh Karthik",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 95,
+    "base": 4.0
+  },
+  {
+    "id": 59,
+    "name": "Robin Uthappa",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 82,
+    "base": 2.5
+  },
+  {
+    "id": 60,
+    "name": "Chris Gayle",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 69,
+    "base": 1.0
+  },
+  {
+    "id": 61,
+    "name": "AB de Villiers",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 86,
+    "base": 3.0
+  },
+  {
+    "id": 62,
+    "name": "David Warner",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 73,
+    "base": 1.5
+  },
+  {
+    "id": 63,
+    "name": "Kane Williamson",
+    "role": "All-rounder",
+    "nation": "Bangladesh",
+    "rating": 90,
+    "base": 3.5
+  },
+  {
+    "id": 64,
+    "name": "Steve Smith",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 77,
+    "base": 2.0
+  },
+  {
+    "id": 65,
+    "name": "Joe Root",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 94,
+    "base": 3.5
+  },
+  {
+    "id": 66,
+    "name": "Ben Stokes",
+    "role": "All-rounder",
+    "nation": "South Africa",
+    "rating": 81,
+    "base": 2.5
+  },
+  {
+    "id": 67,
+    "name": "Jonny Bairstow",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 68,
+    "base": 1.0
+  },
+  {
+    "id": 68,
+    "name": "Jason Roy",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 85,
+    "base": 2.5
+  },
+  {
+    "id": 69,
+    "name": "Alex Hales",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 72,
+    "base": 1.5
+  },
+  {
+    "id": 70,
+    "name": "Harry Brook",
+    "role": "Batter",
+    "nation": "Sri Lanka",
+    "rating": 89,
+    "base": 3.0
+  },
+  {
+    "id": 71,
+    "name": "Liam Livingstone",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 76,
+    "base": 1.5
+  },
+  {
+    "id": 72,
+    "name": "Moeen Ali",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 93,
+    "base": 3.5
+  },
+  {
+    "id": 73,
+    "name": "Sam Curran",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 80,
+    "base": 2.0
+  },
+  {
+    "id": 74,
+    "name": "Liam Dawson",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 97,
+    "base": 4.0
+  },
+  {
+    "id": 75,
+    "name": "Jofra Archer",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 84,
+    "base": 2.5
+  },
+  {
+    "id": 76,
+    "name": "Mark Wood",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 71,
+    "base": 1.0
+  },
+  {
+    "id": 77,
+    "name": "Reece Topley",
+    "role": "Bowler",
+    "nation": "Afghanistan",
+    "rating": 88,
+    "base": 3.0
+  },
+  {
+    "id": 78,
+    "name": "Adil Rashid",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 75,
+    "base": 1.5
+  },
+  {
+    "id": 79,
+    "name": "Mitchell Marsh",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 92,
+    "base": 3.5
+  },
+  {
+    "id": 80,
+    "name": "Marcus Stoinis",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 79,
+    "base": 2.0
+  },
+  {
+    "id": 81,
+    "name": "Cameron Green",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 96,
+    "base": 4.0
+  },
+  {
+    "id": 82,
+    "name": "Tim David",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 83,
+    "base": 2.5
+  },
+  {
+    "id": 83,
+    "name": "Matthew Wade",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 70,
+    "base": 1.0
+  },
+  {
+    "id": 84,
+    "name": "Aaron Finch",
+    "role": "Batter",
+    "nation": "West Indies",
+    "rating": 87,
+    "base": 3.0
+  },
+  {
+    "id": 85,
+    "name": "Shane Watson",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 74,
+    "base": 1.5
+  },
+  {
+    "id": 86,
+    "name": "David Miller",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 91,
+    "base": 3.5
+  },
+  {
+    "id": 87,
+    "name": "Quinton de Kock",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 78,
+    "base": 2.0
+  },
+  {
+    "id": 88,
+    "name": "Heinrich Klaasen",
+    "role": "Batter",
+    "nation": "Australia",
+    "rating": 95,
+    "base": 4.0
+  },
+  {
+    "id": 89,
+    "name": "Aiden Markram",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 82,
+    "base": 2.5
+  },
+  {
+    "id": 90,
+    "name": "Kagiso Rabada",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 69,
+    "base": 1.0
+  },
+  {
+    "id": 91,
+    "name": "Anrich Nortje",
+    "role": "Wicketkeeper",
+    "nation": "New Zealand",
+    "rating": 86,
+    "base": 3.0
+  },
+  {
+    "id": 92,
+    "name": "Lungi Ngidi",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 73,
+    "base": 1.5
+  },
+  {
+    "id": 93,
+    "name": "Gerald Coetzee",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 90,
+    "base": 3.5
+  },
+  {
+    "id": 94,
+    "name": "Marco Jansen",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 77,
+    "base": 2.0
+  },
+  {
+    "id": 95,
+    "name": "Dale Steyn",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 94,
+    "base": 3.5
+  },
+  {
+    "id": 96,
+    "name": "Morne Morkel",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 81,
+    "base": 2.5
+  },
+  {
+    "id": 97,
+    "name": "Imran Tahir",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 68,
+    "base": 1.0
+  },
+  {
+    "id": 98,
+    "name": "Rilee Rossouw",
+    "role": "All-rounder",
+    "nation": "South Africa",
+    "rating": 85,
+    "base": 2.5
+  },
+  {
+    "id": 99,
+    "name": "Dewald Brevis",
+    "role": "Wicketkeeper",
+    "nation": "New Zealand",
+    "rating": 72,
+    "base": 1.5
+  },
+  {
+    "id": 100,
+    "name": "Tristan Stubbs",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 89,
+    "base": 3.0
+  },
+  {
+    "id": 101,
+    "name": "Rassie van der Dussen",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 76,
+    "base": 1.5
+  },
+  {
+    "id": 102,
+    "name": "Keshav Maharaj",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 93,
+    "base": 3.5
+  },
+  {
+    "id": 103,
+    "name": "Tabraiz Shamsi",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 80,
+    "base": 2.0
+  },
+  {
+    "id": 104,
+    "name": "Fazalhaq Farooqi",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 97,
+    "base": 4.0
+  },
+  {
+    "id": 105,
+    "name": "Mujeeb Ur Rahman",
+    "role": "Bowler",
+    "nation": "England",
+    "rating": 84,
+    "base": 2.5
+  },
+  {
+    "id": 106,
+    "name": "Mohammad Nabi",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 71,
+    "base": 1.0
+  },
+  {
+    "id": 107,
+    "name": "Mohammad Shahzad",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 88,
+    "base": 3.0
+  },
+  {
+    "id": 108,
+    "name": "Rahmanullah Gurbaz",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 75,
+    "base": 1.5
+  },
+  {
+    "id": 109,
+    "name": "Azmatullah Omarzai",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 92,
+    "base": 3.5
+  },
+  {
+    "id": 110,
+    "name": "Noor Ahmad",
+    "role": "Batter",
+    "nation": "Sri Lanka",
+    "rating": 79,
+    "base": 2.0
+  },
+  {
+    "id": 111,
+    "name": "Mohammad Amir",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 96,
+    "base": 4.0
+  },
+  {
+    "id": 112,
+    "name": "Shaheen Afridi",
+    "role": "Batter",
+    "nation": "Australia",
+    "rating": 83,
+    "base": 2.5
+  },
+  {
+    "id": 113,
+    "name": "Babar Azam",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 70,
+    "base": 1.0
+  },
+  {
+    "id": 114,
+    "name": "Mohammad Rizwan",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 87,
+    "base": 3.0
+  },
+  {
+    "id": 115,
+    "name": "Shoaib Malik",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 74,
+    "base": 1.5
+  },
+  {
+    "id": 116,
+    "name": "Imad Wasim",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 91,
+    "base": 3.5
+  },
+  {
+    "id": 117,
+    "name": "Shadab Khan",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 78,
+    "base": 2.0
+  },
+  {
+    "id": 118,
+    "name": "Chris Morris",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 95,
+    "base": 4.0
+  },
+  {
+    "id": 119,
+    "name": "Dwayne Bravo",
+    "role": "All-rounder",
+    "nation": "Bangladesh",
+    "rating": 82,
+    "base": 2.5
+  },
+  {
+    "id": 120,
+    "name": "Kieron Pollard",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 69,
+    "base": 1.0
+  },
+  {
+    "id": 121,
+    "name": "Nicholas Pooran",
+    "role": "Bowler",
+    "nation": "England",
+    "rating": 86,
+    "base": 3.0
+  },
+  {
+    "id": 122,
+    "name": "Shimron Hetmyer",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 73,
+    "base": 1.5
+  },
+  {
+    "id": 123,
+    "name": "Evin Lewis",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 90,
+    "base": 3.5
+  },
+  {
+    "id": 124,
+    "name": "Rovman Powell",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 77,
+    "base": 2.0
+  },
+  {
+    "id": 125,
+    "name": "Jason Holder",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 94,
+    "base": 3.5
+  },
+  {
+    "id": 126,
+    "name": "Brendon McCullum",
+    "role": "Batter",
+    "nation": "Sri Lanka",
+    "rating": 81,
+    "base": 2.5
+  },
+  {
+    "id": 127,
+    "name": "Kumar Sangakkara",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 68,
+    "base": 1.0
+  },
+  {
+    "id": 128,
+    "name": "Mahela Jayawardene",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 85,
+    "base": 2.5
+  },
+  {
+    "id": 129,
+    "name": "Lasith Malinga",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 72,
+    "base": 1.5
+  },
+  {
+    "id": 130,
+    "name": "Thisara Perera",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 89,
+    "base": 3.0
+  },
+  {
+    "id": 131,
+    "name": "Angelo Mathews",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 76,
+    "base": 1.5
+  },
+  {
+    "id": 132,
+    "name": "Wanindu Hasaranga",
+    "role": "Batter",
+    "nation": "West Indies",
+    "rating": 93,
+    "base": 3.5
+  },
+  {
+    "id": 133,
+    "name": "Maheesh Theekshana",
+    "role": "Bowler",
+    "nation": "Afghanistan",
+    "rating": 80,
+    "base": 2.0
+  },
+  {
+    "id": 134,
+    "name": "Matheesha Pathirana",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 97,
+    "base": 4.0
+  },
+  {
+    "id": 135,
+    "name": "Dushmantha Chameera",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 84,
+    "base": 2.5
+  },
+  {
+    "id": 136,
+    "name": "Shakib Al Hasan",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 71,
+    "base": 1.0
+  },
+  {
+    "id": 137,
+    "name": "Mustafizur Rahman",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 88,
+    "base": 3.0
+  },
+  {
+    "id": 138,
+    "name": "Litton Das",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 75,
+    "base": 1.5
+  },
+  {
+    "id": 139,
+    "name": "Tamim Iqbal",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 92,
+    "base": 3.5
+  },
+  {
+    "id": 140,
+    "name": "Mashrafe Mortaza",
+    "role": "Batter",
+    "nation": "West Indies",
+    "rating": 79,
+    "base": 2.0
+  },
+  {
+    "id": 141,
+    "name": "Taskin Ahmed",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 96,
+    "base": 4.0
+  },
+  {
+    "id": 142,
+    "name": "Mehidy Hasan Miraz",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 83,
+    "base": 2.5
+  },
+  {
+    "id": 143,
+    "name": "Mushfiqur Rahim",
+    "role": "All-rounder",
+    "nation": "Bangladesh",
+    "rating": 70,
+    "base": 1.0
+  },
+  {
+    "id": 144,
+    "name": "Soumya Sarkar",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 87,
+    "base": 3.0
+  },
+  {
+    "id": 145,
+    "name": "Mahmudullah",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 74,
+    "base": 1.5
+  },
+  {
+    "id": 146,
+    "name": "Ross Taylor",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 91,
+    "base": 3.5
+  },
+  {
+    "id": 147,
+    "name": "Martin Guptill",
+    "role": "Wicketkeeper",
+    "nation": "New Zealand",
+    "rating": 78,
+    "base": 2.0
+  },
+  {
+    "id": 148,
+    "name": "Daniel Vettori",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 95,
+    "base": 4.0
+  },
+  {
+    "id": 149,
+    "name": "Mitchell Santner",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 82,
+    "base": 2.5
+  },
+  {
+    "id": 150,
+    "name": "Lockie Ferguson",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 69,
+    "base": 1.0
+  },
+  {
+    "id": 151,
+    "name": "Tim Southee",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 86,
+    "base": 3.0
+  },
+  {
+    "id": 152,
+    "name": "Adam Milne",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 73,
+    "base": 1.5
+  },
+  {
+    "id": 153,
+    "name": "Ish Sodhi",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 90,
+    "base": 3.5
+  },
+  {
+    "id": 154,
+    "name": "Rachin Ravindra",
+    "role": "All-rounder",
+    "nation": "South Africa",
+    "rating": 77,
+    "base": 2.0
+  },
+  {
+    "id": 155,
+    "name": "Devon Conway",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 94,
+    "base": 3.5
+  },
+  {
+    "id": 156,
+    "name": "Daryl Mitchell",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 81,
+    "base": 2.5
+  },
+  {
+    "id": 157,
+    "name": "Glenn Phillips",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 68,
+    "base": 1.0
+  },
+  {
+    "id": 158,
+    "name": "Finn Allen",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 85,
+    "base": 2.5
+  },
+  {
+    "id": 159,
+    "name": "James Neesham",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 72,
+    "base": 1.5
+  },
+  {
+    "id": 160,
+    "name": "Kyle Jamieson",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 89,
+    "base": 3.0
+  },
+  {
+    "id": 161,
+    "name": "Tim Seifert",
+    "role": "Bowler",
+    "nation": "England",
+    "rating": 76,
+    "base": 1.5
+  },
+  {
+    "id": 162,
+    "name": "Colin Munro",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 93,
+    "base": 3.5
+  },
+  {
+    "id": 163,
+    "name": "Shane Bond",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 80,
+    "base": 2.0
+  },
+  {
+    "id": 164,
+    "name": "Ricky Ponting",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 97,
+    "base": 4.0
+  },
+  {
+    "id": 165,
+    "name": "Matthew Hayden",
+    "role": "Bowler",
+    "nation": "Afghanistan",
+    "rating": 84,
+    "base": 2.5
+  },
+  {
+    "id": 166,
+    "name": "Adam Gilchrist",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 71,
+    "base": 1.0
+  },
+  {
+    "id": 167,
+    "name": "Brett Lee",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 88,
+    "base": 3.0
+  },
+  {
+    "id": 168,
+    "name": "Glenn McGrath",
+    "role": "Batter",
+    "nation": "Australia",
+    "rating": 75,
+    "base": 1.5
+  },
+  {
+    "id": 169,
+    "name": "Andrew Symonds",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 92,
+    "base": 3.5
+  },
+  {
+    "id": 170,
+    "name": "Michael Hussey",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 79,
+    "base": 2.0
+  },
+  {
+    "id": 171,
+    "name": "Brad Hodge",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 96,
+    "base": 4.0
+  },
+  {
+    "id": 172,
+    "name": "Yuvraj Singh",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 83,
+    "base": 2.5
+  },
+  {
+    "id": 173,
+    "name": "Suresh Raina",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 70,
+    "base": 1.0
+  },
+  {
+    "id": 174,
+    "name": "Gautam Gambhir",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 87,
+    "base": 3.0
+  },
+  {
+    "id": 175,
+    "name": "Virender Sehwag",
+    "role": "All-rounder",
+    "nation": "Bangladesh",
+    "rating": 74,
+    "base": 1.5
+  },
+  {
+    "id": 176,
+    "name": "Harbhajan Singh",
+    "role": "Batter",
+    "nation": "Australia",
+    "rating": 91,
+    "base": 3.5
+  },
+  {
+    "id": 177,
+    "name": "Zaheer Khan",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 78,
+    "base": 2.0
+  },
+  {
+    "id": 178,
+    "name": "Irfan Pathan",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 95,
+    "base": 4.0
+  },
+  {
+    "id": 179,
+    "name": "Yusuf Pathan",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 82,
+    "base": 2.5
+  },
+  {
+    "id": 180,
+    "name": "Pragyan Ojha",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 69,
+    "base": 1.0
+  },
+  {
+    "id": 181,
+    "name": "RP Singh",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 86,
+    "base": 3.0
+  },
+  {
+    "id": 182,
+    "name": "Munaf Patel",
+    "role": "Batter",
+    "nation": "Sri Lanka",
+    "rating": 73,
+    "base": 1.5
+  },
+  {
+    "id": 183,
+    "name": "Ashish Nehra",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 90,
+    "base": 3.5
+  },
+  {
+    "id": 184,
+    "name": "Sreesanth",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 77,
+    "base": 2.0
+  },
+  {
+    "id": 185,
+    "name": "Murali Vijay",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 94,
+    "base": 3.5
+  },
+  {
+    "id": 186,
+    "name": "Subramaniam Badrinath",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 81,
+    "base": 2.5
+  },
+  {
+    "id": 187,
+    "name": "Parthiv Patel",
+    "role": "Wicketkeeper",
+    "nation": "New Zealand",
+    "rating": 68,
+    "base": 1.0
+  },
+  {
+    "id": 188,
+    "name": "Piyush Chawla",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 85,
+    "base": 2.5
+  },
+  {
+    "id": 189,
+    "name": "Amit Mishra",
+    "role": "Bowler",
+    "nation": "Afghanistan",
+    "rating": 72,
+    "base": 1.5
+  },
+  {
+    "id": 190,
+    "name": "Praveen Kumar",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 89,
+    "base": 3.0
+  },
+  {
+    "id": 191,
+    "name": "Ishant Sharma",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 76,
+    "base": 1.5
+  },
+  {
+    "id": 192,
+    "name": "Umesh Yadav",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 93,
+    "base": 3.5
+  },
+  {
+    "id": 193,
+    "name": "Dhawal Kulkarni",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 80,
+    "base": 2.0
+  },
+  {
+    "id": 194,
+    "name": "Rahul Dravid",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 97,
+    "base": 4.0
+  },
+  {
+    "id": 195,
+    "name": "VVS Laxman",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 84,
+    "base": 2.5
+  },
+  {
+    "id": 196,
+    "name": "Mohammad Kaif",
+    "role": "Batter",
+    "nation": "West Indies",
+    "rating": 71,
+    "base": 1.0
+  },
+  {
+    "id": 197,
+    "name": "Laxmipathy Balaji",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 88,
+    "base": 3.0
+  },
+  {
+    "id": 198,
+    "name": "Ravichandran Ashwin",
+    "role": "Batter",
+    "nation": "Sri Lanka",
+    "rating": 75,
+    "base": 1.5
+  },
+  {
+    "id": 199,
+    "name": "Manoj Tiwary",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 92,
+    "base": 3.5
+  },
+  {
+    "id": 200,
+    "name": "Shai Hope",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 79,
+    "base": 2.0
+  },
+  {
+    "id": 201,
+    "name": "Kusal Mendis",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 96,
+    "base": 4.0
+  },
+  {
+    "id": 202,
+    "name": "Pathum Nissanka",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 83,
+    "base": 2.5
+  },
+  {
+    "id": 203,
+    "name": "Dhananjaya de Silva",
+    "role": "Wicketkeeper",
+    "nation": "New Zealand",
+    "rating": 70,
+    "base": 1.0
+  },
+  {
+    "id": 204,
+    "name": "Charith Asalanka",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 87,
+    "base": 3.0
+  },
+  {
+    "id": 205,
+    "name": "Kamindu Mendis",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 74,
+    "base": 1.5
+  },
+  {
+    "id": 206,
+    "name": "Dinesh Chandimal",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 91,
+    "base": 3.5
+  },
+  {
+    "id": 207,
+    "name": "Avishka Fernando",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 78,
+    "base": 2.0
+  },
+  {
+    "id": 208,
+    "name": "Dasun Shanaka",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 95,
+    "base": 4.0
+  },
+  {
+    "id": 209,
+    "name": "Paul Stirling",
+    "role": "Bowler",
+    "nation": "England",
+    "rating": 82,
+    "base": 2.5
+  },
+  {
+    "id": 210,
+    "name": "Harry Tector",
+    "role": "All-rounder",
+    "nation": "South Africa",
+    "rating": 69,
+    "base": 1.0
+  },
+  {
+    "id": 211,
+    "name": "Curtis Campher",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 86,
+    "base": 3.0
+  },
+  {
+    "id": 212,
+    "name": "Lorcan Tucker",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 73,
+    "base": 1.5
+  },
+  {
+    "id": 213,
+    "name": "Josh Little",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 90,
+    "base": 3.5
+  },
+  {
+    "id": 214,
+    "name": "Mark Adair",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 77,
+    "base": 2.0
+  },
+  {
+    "id": 215,
+    "name": "George Dockrell",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 94,
+    "base": 3.5
+  },
+  {
+    "id": 216,
+    "name": "Andy Balbirnie",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 81,
+    "base": 2.5
+  },
+  {
+    "id": 217,
+    "name": "Gareth Delany",
+    "role": "Bowler",
+    "nation": "England",
+    "rating": 68,
+    "base": 1.0
+  },
+  {
+    "id": 218,
+    "name": "Barry McCarthy",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 85,
+    "base": 2.5
+  },
+  {
+    "id": 219,
+    "name": "Bhanuka Rajapaksa",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 72,
+    "base": 1.5
+  },
+  {
+    "id": 220,
+    "name": "Pramod Madushan",
+    "role": "Batter",
+    "nation": "West Indies",
+    "rating": 89,
+    "base": 3.0
+  },
+  {
+    "id": 221,
+    "name": "Kasun Rajitha",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 76,
+    "base": 1.5
+  },
+  {
+    "id": 222,
+    "name": "Nuwan Thushara",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 93,
+    "base": 3.5
+  },
+  {
+    "id": 223,
+    "name": "Binura Fernando",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 80,
+    "base": 2.0
+  },
+  {
+    "id": 224,
+    "name": "Chamika Karunaratne",
+    "role": "Batter",
+    "nation": "Australia",
+    "rating": 97,
+    "base": 4.0
+  },
+  {
+    "id": 225,
+    "name": "Sadeera Samarawickrama",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 84,
+    "base": 2.5
+  },
+  {
+    "id": 226,
+    "name": "Kusal Perera",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 71,
+    "base": 1.0
+  },
+  {
+    "id": 227,
+    "name": "Lahiru Kumara",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 88,
+    "base": 3.0
+  },
+  {
+    "id": 228,
+    "name": "Dilshan Madushanka",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 75,
+    "base": 1.5
+  },
+  {
+    "id": 229,
+    "name": "Usman Khawaja",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 92,
+    "base": 3.5
+  },
+  {
+    "id": 230,
+    "name": "Travis Head",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 79,
+    "base": 2.0
+  },
+  {
+    "id": 231,
+    "name": "Marnus Labuschagne",
+    "role": "All-rounder",
+    "nation": "Bangladesh",
+    "rating": 96,
+    "base": 4.0
+  },
+  {
+    "id": 232,
+    "name": "Alex Carey",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 83,
+    "base": 2.5
+  },
+  {
+    "id": 233,
+    "name": "Josh Inglis",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 70,
+    "base": 1.0
+  },
+  {
+    "id": 234,
+    "name": "Jake Fraser-McGurk",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 87,
+    "base": 3.0
+  },
+  {
+    "id": 235,
+    "name": "Will Sutherland",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 74,
+    "base": 1.5
+  },
+  {
+    "id": 236,
+    "name": "Xavier Bartlett",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 91,
+    "base": 3.5
+  },
+  {
+    "id": 237,
+    "name": "Spencer Johnson",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 78,
+    "base": 2.0
+  },
+  {
+    "id": 238,
+    "name": "Nathan Ellis",
+    "role": "Batter",
+    "nation": "Sri Lanka",
+    "rating": 95,
+    "base": 4.0
+  },
+  {
+    "id": 239,
+    "name": "Jake Weatherald",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 82,
+    "base": 2.5
+  },
+  {
+    "id": 240,
+    "name": "Beau Webster",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 69,
+    "base": 1.0
+  },
+  {
+    "id": 241,
+    "name": "Matt Short",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 86,
+    "base": 3.0
+  },
+  {
+    "id": 242,
+    "name": "Cooper Connolly",
+    "role": "All-rounder",
+    "nation": "South Africa",
+    "rating": 73,
+    "base": 1.5
+  },
+  {
+    "id": 243,
+    "name": "Todd Murphy",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 90,
+    "base": 3.5
+  },
+  {
+    "id": 244,
+    "name": "Adam Zampa",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 77,
+    "base": 2.0
+  },
+  {
+    "id": 245,
+    "name": "Tanveer Sangha",
+    "role": "Bowler",
+    "nation": "Afghanistan",
+    "rating": 94,
+    "base": 3.5
+  },
+  {
+    "id": 246,
+    "name": "Sean Abbott",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 81,
+    "base": 2.5
+  },
+  {
+    "id": 247,
+    "name": "Josh Hazlewood",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 68,
+    "base": 1.0
+  },
+  {
+    "id": 248,
+    "name": "Scott Boland",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 85,
+    "base": 2.5
+  },
+  {
+    "id": 249,
+    "name": "Zack Crawley",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 72,
+    "base": 1.5
+  },
+  {
+    "id": 250,
+    "name": "Tom Banton",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 89,
+    "base": 3.0
+  },
+  {
+    "id": 251,
+    "name": "Will Jacks",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 76,
+    "base": 1.5
+  },
+  {
+    "id": 252,
+    "name": "Jacob Bethell",
+    "role": "Batter",
+    "nation": "West Indies",
+    "rating": 93,
+    "base": 3.5
+  },
+  {
+    "id": 253,
+    "name": "Tom Curran",
+    "role": "Bowler",
+    "nation": "Afghanistan",
+    "rating": 80,
+    "base": 2.0
+  },
+  {
+    "id": 254,
+    "name": "Chris Woakes",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 97,
+    "base": 4.0
+  },
+  {
+    "id": 255,
+    "name": "Rehan Ahmed",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 84,
+    "base": 2.5
+  },
+  {
+    "id": 256,
+    "name": "Dan Lawrence",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 71,
+    "base": 1.0
+  },
+  {
+    "id": 257,
+    "name": "Dawid Malan",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 88,
+    "base": 3.0
+  },
+  {
+    "id": 258,
+    "name": "Paul Walter",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 75,
+    "base": 1.5
+  },
+  {
+    "id": 259,
+    "name": "Kyle Mayers",
+    "role": "Wicketkeeper",
+    "nation": "New Zealand",
+    "rating": 92,
+    "base": 3.5
+  },
+  {
+    "id": 260,
+    "name": "Akeal Hosein",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 79,
+    "base": 2.0
+  },
+  {
+    "id": 261,
+    "name": "Brandon King",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 96,
+    "base": 4.0
+  },
+  {
+    "id": 262,
+    "name": "Johnson Charles",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 83,
+    "base": 2.5
+  },
+  {
+    "id": 263,
+    "name": "Alzarri Joseph",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 70,
+    "base": 1.0
+  },
+  {
+    "id": 264,
+    "name": "Obed McCoy",
+    "role": "Batter",
+    "nation": "Australia",
+    "rating": 87,
+    "base": 3.0
+  },
+  {
+    "id": 265,
+    "name": "Romario Shepherd",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 74,
+    "base": 1.5
+  },
+  {
+    "id": 266,
+    "name": "Gudakesh Motie",
+    "role": "All-rounder",
+    "nation": "South Africa",
+    "rating": 91,
+    "base": 3.5
+  },
+  {
+    "id": 267,
+    "name": "Shamar Joseph",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 78,
+    "base": 2.0
+  },
+  {
+    "id": 268,
+    "name": "Rishad Hossain",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 95,
+    "base": 4.0
+  },
+  {
+    "id": 269,
+    "name": "Ryan Rickelton",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 82,
+    "base": 2.5
+  },
+  {
+    "id": 270,
+    "name": "Tony de Zorzi",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 69,
+    "base": 1.0
+  },
+  {
+    "id": 271,
+    "name": "Nandre Burger",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 86,
+    "base": 3.0
+  },
+  {
+    "id": 272,
+    "name": "Ottneil Baartman",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 73,
+    "base": 1.5
+  },
+  {
+    "id": 273,
+    "name": "Bjorn Fortuin",
+    "role": "Bowler",
+    "nation": "England",
+    "rating": 90,
+    "base": 3.5
+  },
+  {
+    "id": 274,
+    "name": "Corbin Bosch",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 77,
+    "base": 2.0
+  },
+  {
+    "id": 275,
+    "name": "Dwaine Pretorius",
+    "role": "Wicketkeeper",
+    "nation": "New Zealand",
+    "rating": 94,
+    "base": 3.5
+  },
+  {
+    "id": 276,
+    "name": "Sikandar Raza",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 81,
+    "base": 2.5
+  },
+  {
+    "id": 277,
+    "name": "Blessing Muzarabani",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 68,
+    "base": 1.0
+  },
+  {
+    "id": 278,
+    "name": "Richard Ngarava",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 85,
+    "base": 2.5
+  },
+  {
+    "id": 279,
+    "name": "Craig Ervine",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 72,
+    "base": 1.5
+  },
+  {
+    "id": 280,
+    "name": "Sean Williams",
+    "role": "Batter",
+    "nation": "Australia",
+    "rating": 89,
+    "base": 3.0
+  },
+  {
+    "id": 281,
+    "name": "Ryan Burl",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 76,
+    "base": 1.5
+  },
+  {
+    "id": 282,
+    "name": "Tendai Chatara",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 93,
+    "base": 3.5
+  },
+  {
+    "id": 283,
+    "name": "Wellington Masakadza",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 80,
+    "base": 2.0
+  },
+  {
+    "id": 284,
+    "name": "Brendan Taylor",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 97,
+    "base": 4.0
+  },
+  {
+    "id": 285,
+    "name": "Luke Jongwe",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 84,
+    "base": 2.5
+  },
+  {
+    "id": 286,
+    "name": "Clive Madande",
+    "role": "Batter",
+    "nation": "Sri Lanka",
+    "rating": 71,
+    "base": 1.0
+  },
+  {
+    "id": 287,
+    "name": "Tadiwanashe Marumani",
+    "role": "All-rounder",
+    "nation": "Bangladesh",
+    "rating": 88,
+    "base": 3.0
+  },
+  {
+    "id": 288,
+    "name": "Brian Bennett",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 75,
+    "base": 1.5
+  },
+  {
+    "id": 289,
+    "name": "Usman Tariq",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 92,
+    "base": 3.5
+  },
+  {
+    "id": 290,
+    "name": "Saim Ayub",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 79,
+    "base": 2.0
+  },
+  {
+    "id": 291,
+    "name": "Fakhar Zaman",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 96,
+    "base": 4.0
+  },
+  {
+    "id": 292,
+    "name": "Abrar Ahmed",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 83,
+    "base": 2.5
+  },
+  {
+    "id": 293,
+    "name": "Naseem Shah",
+    "role": "Bowler",
+    "nation": "India",
+    "rating": 70,
+    "base": 1.0
+  },
+  {
+    "id": 294,
+    "name": "Haris Rauf",
+    "role": "Batter",
+    "nation": "Sri Lanka",
+    "rating": 87,
+    "base": 3.0
+  },
+  {
+    "id": 295,
+    "name": "Iftikhar Ahmed",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 74,
+    "base": 1.5
+  },
+  {
+    "id": 296,
+    "name": "Azam Khan",
+    "role": "Batter",
+    "nation": "India",
+    "rating": 91,
+    "base": 3.5
+  },
+  {
+    "id": 297,
+    "name": "Agha Salman",
+    "role": "Bowler",
+    "nation": "England",
+    "rating": 78,
+    "base": 2.0
+  },
+  {
+    "id": 298,
+    "name": "Abdullah Shafique",
+    "role": "All-rounder",
+    "nation": "India",
+    "rating": 95,
+    "base": 4.0
+  },
+  {
+    "id": 299,
+    "name": "Dunith Wellalage",
+    "role": "Wicketkeeper",
+    "nation": "India",
+    "rating": 82,
+    "base": 2.5
+  }
+]
